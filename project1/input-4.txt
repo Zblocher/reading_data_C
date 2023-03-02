@@ -1,0 +1,11 @@
+filename AU.txt
+place Marshall Moun
+distance 9001 2460
+distance 5152 2472X
+distance 3579y 2290
+postal 4741L
+distance 4818H 4728(
+place Keon Park|
+county D
+postal 5153
+county NORTHGATE NORT
